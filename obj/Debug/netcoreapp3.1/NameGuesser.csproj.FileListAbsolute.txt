@@ -1,0 +1,13 @@
+C:\Users\ductr\Desktop\C#\NameGuesser\bin\Debug\netcoreapp3.1\NameGuesser.exe
+C:\Users\ductr\Desktop\C#\NameGuesser\bin\Debug\netcoreapp3.1\NameGuesser.deps.json
+C:\Users\ductr\Desktop\C#\NameGuesser\bin\Debug\netcoreapp3.1\NameGuesser.runtimeconfig.json
+C:\Users\ductr\Desktop\C#\NameGuesser\bin\Debug\netcoreapp3.1\NameGuesser.runtimeconfig.dev.json
+C:\Users\ductr\Desktop\C#\NameGuesser\bin\Debug\netcoreapp3.1\NameGuesser.dll
+C:\Users\ductr\Desktop\C#\NameGuesser\bin\Debug\netcoreapp3.1\NameGuesser.pdb
+C:\Users\ductr\Desktop\C#\NameGuesser\obj\Debug\netcoreapp3.1\NameGuesser.csproj.CoreCompileInputs.cache
+C:\Users\ductr\Desktop\C#\NameGuesser\obj\Debug\netcoreapp3.1\NameGuesser.AssemblyInfoInputs.cache
+C:\Users\ductr\Desktop\C#\NameGuesser\obj\Debug\netcoreapp3.1\NameGuesser.AssemblyInfo.cs
+C:\Users\ductr\Desktop\C#\NameGuesser\obj\Debug\netcoreapp3.1\NameGuesser.dll
+C:\Users\ductr\Desktop\C#\NameGuesser\obj\Debug\netcoreapp3.1\NameGuesser.pdb
+C:\Users\ductr\Desktop\C#\NameGuesser\obj\Debug\netcoreapp3.1\NameGuesser.genruntimeconfig.cache
+C:\Users\ductr\Desktop\C#\NameGuesser\obj\Debug\netcoreapp3.1\NameGuesser.csprojAssemblyReference.cache
